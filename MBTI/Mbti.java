@@ -160,6 +160,7 @@ int[] jvsP_Indexes = {3,7,11,15,19}; //indexes of 4,8,12,16,20
             return "P";
 }
 }
+                                // CALCULATING ALL MBTI TYPE
 public String getMbtiResult(){
 
     String introExtro = calculateEvsI();
